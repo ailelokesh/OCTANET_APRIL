@@ -1,8 +1,24 @@
-{
-	"folders": [
-		{
-			"path": "."
-		}
-	],
-	"settings": {}
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Beach</title>
+    <link rel="stylesheet" href="style.css">
+</head>`
+<body>
+    <header id="case">
+        <div>
+        <h1>Welcome To The Beach</h1>
+        <p>visit the tides</p>
+        <button type ="button" onclick="location.href='https://www.bing.com/ck/a?!&&p=bc1cc46b02c65208JmltdHM9MTcxMjQ0ODAwMCZpZ3VpZD0xNTA0OTVmYS05NWY5LTY2NmEtMDBjNS04N2Q1OTQ1ZjY3YWYmaW5zaWQ9NTI0NQ&ptn=3&ver=2&hsh=3&fclid=150495fa-95f9-666a-00c5-87d5945f67af&psq=famous+beaches&u=a1aHR0cHM6Ly93d3cubG9uZWx5cGxhbmV0LmNvbS9hcnRpY2xlcy93b3JsZHMtYmVzdC1iZWFjaGVz&ntb=1'">Read More</button>
+    </div>
+    </header>
+    <section id="secA">
+        <p>A beach is a narrow strip of land separating a body of water from inland areas. Beaches are usually made of sand, tiny grains of rocks and minerals that have been worn down by constant pounding by wind and waves.</p>
+
+    </section>
+    </body>
+    </html>
+    
+	
